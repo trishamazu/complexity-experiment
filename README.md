@@ -1,6 +1,5 @@
 # complexity-experiment
 Note: Files other than the ones described here might be slightly out of date or confusing as embeddings and participant data and the way they are processed change from time to time.
-Important Files:
 - Data/Data Prep/get_entropy.ipynb: Calculates entropy from raw entropy scores (each value between 0 and 1)
 - Data/Images/HebartRankingImages: Images used in the ranking experiment
 - Data/Images/AmbiguousImagesPairs: Images used in the ambiguous experiment
